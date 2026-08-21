@@ -70,7 +70,7 @@ Total Records: **2484**
 ## Project Structure
 
 ```
-Resume_Screening_And_Candidate_Ranking_System.ipynb
+Resume Screening System.ipynb
 README.md
 Resume.csv
 ```
