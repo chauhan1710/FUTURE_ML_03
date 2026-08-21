@@ -96,15 +96,6 @@ Resume.csv
 
 ---
 
-## Author
-
-**Krishna Dhiman**
-
-B.Tech CSE (AI & ML)
-
-Graphic Era Hill University
-
----
 
 ## Internship
 
